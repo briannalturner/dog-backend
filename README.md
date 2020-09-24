@@ -1,4 +1,4 @@
-#Steps to run backend
+# Steps to run backend
 
 rails db:migrate
 
